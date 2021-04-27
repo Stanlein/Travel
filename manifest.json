@@ -4,7 +4,7 @@
     "display": "standalone",
     "theme_color": "#ffc93cff",
     "background_color": "#ffc93cff",
-    "start_url": "/",
+    "start_url": "./",
     "icons": [
     {
       "src": "./icons/travel-icon-72x72.png",
