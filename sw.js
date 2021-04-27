@@ -1,14 +1,14 @@
 const cacheName = 'static-cache'
 const assets = [
-    '/',
-    '/index.html',
-    '/frei.html',
-    '/str.html',
-    '/leopard7.mp3',
-    '/app.js',
-    '/style.css',
-    '/image/freiburg-small.png',
-    '/image/straßbourg-small.png'
+    './',
+    './index.html',
+    './frei.html',
+    './str.html',
+    './leopard7.mp3',
+    './app.js',
+    './style.css',
+    './image/freiburg-small.png',
+    './image/straßbourg-small.png'
 ]
 // install
 self.addEventListener('install', evt => {
